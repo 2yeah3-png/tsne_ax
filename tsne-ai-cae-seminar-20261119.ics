@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TSNE//AI CAE Seminar//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20261119-ai-cae-seminar@tsne.co.kr
+DTSTAMP:20261103T005306Z
+DTSTART:20261118T233000Z
+DTEND:20261119T011000Z
+SUMMARY:[태성에스엔이] AI로 연결되는 CAE의 미래 세미나
+LOCATION:여수국제컨벤션센터 · 6강연장(세미나6)
+DESCRIPTION:2026 한국자동차공학회 추계학술대회 및 전시회 
+ · 태성에스엔이 기업세미나\n2026년 11월 19일(목) 08:30–10
+ :10 (한국 시간)\n장소: 여수국제컨벤션센터 · 6강연장(세
+ 미나6)\n\n08:30–08:40 AI를 활용한 CAE의 미래\, AI Agent에서 
+ 자동설계까지 · 안영규 그룹장\n08:40–09:10 CAE도 이제 말
+ 로합니다. - AI Agent가 바꾸는 엔지니어링 자동화 · 나도
+ 경 매니저\n09:10–09:40 Physical AI의 Sim-to-Real 갭 극복 및 구
+ 조 안정성 확보를 위한 동역학 해석 · 이상혁 팀장\n09:40
+ –10:10 해석 가속화와 자동설계를 위한 AI 예측 모델 · 
+ 안영규 그룹장
+URL:https://www.tsne.co.kr/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
